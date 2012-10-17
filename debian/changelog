@@ -1,0 +1,5 @@
+redmine-plugin-project-filtering (0.9.5~precise25) precise; urgency=low
+
+  * Packaging for Ubuntu precise
+
+ -- Enrico Weigelt, metux IT service <weigelt@metux.de>  Wed, 17 Oct 2012 08:43:13 +0200
